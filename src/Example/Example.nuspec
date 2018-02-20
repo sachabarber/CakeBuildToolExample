@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Example</id>
+    <version>1.0.0</version>
+    <title>Cake Example</title>
+    <authors>Sacha Barber</authors>
+    <owners>Sacha Barber</owners>
+    <licenseUrl>http://github.com/sachabarber</licenseUrl>
+    <projectUrl>http://github.com/sachabarber</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple Cake Build Tool Example</description>
+    <releaseNotes>1st and only release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>C# Cake</tags>
+  </metadata>
+  <files>  
+   <file src="bin\Release\Example.dll" target="lib\net45"></file>  
+</files> 
+</package>
